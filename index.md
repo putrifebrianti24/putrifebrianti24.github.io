@@ -2,28 +2,15 @@
 
 ---
 
-### Category Name 1 
+### Kegiatan Kampus Merdeka Yang Pernah Di Ikuti 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Kampus Mengajar Angkatan 1](/sample_page)
+<img src="km1.jpeg?raw=true"/>
+<img src="km2.jpeg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Studi Independen Bersertifikat](/pdf/sample_presentation.pdf)
+<img src="pzsib.jpeg?raw=true"/>
 
 ---
 
