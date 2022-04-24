@@ -2,9 +2,9 @@ title: Putri Febrianti # your name (or website title) here
 logo: "logoputri.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br>PZSIB<br>
+  <PZSIB>
   Second description 
-  <br>Mahasiswa Pendidikan Matematika UPI<br>
+  <Mahasiswa Pendidikan Matematika UPI>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
